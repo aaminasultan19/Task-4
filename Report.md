@@ -39,6 +39,8 @@ Test-NetConnection -Port 23 -ComputerName 127.0.0.1
 ```
 - **Result:** TCP connect failed ✅
 - **Status:** TcpTestSucceeded = False
+ 
+  ![](./screenshots/telnet_blocked.png)
 
 **SSH (Port 22) - Allowed:**
 ```powershell
@@ -46,6 +48,8 @@ Test-NetConnection -Port 22 -ComputerName 127.0.0.1
 ```
 - **Result:** TCP connect succeeded ✅
 - **Status:** TcpTestSucceeded = True
+
+ ![](./screenshots/ssh_allowed.png)
 
 ## Key Findings
 
