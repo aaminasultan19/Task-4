@@ -19,7 +19,7 @@ Configure and test basic firewall rules to allow or block traffic using Windows 
 - Security rule testing and validation
 
 ## Contents
-- Report.md - [ View the Detailed Implementation Report](report.md) 
+- Report.md - [ View the Detailed Implementation Report](Report.md) 
 
 - screenshots/ - [Step-by-step Visual Documentation](screenshots/)
 
